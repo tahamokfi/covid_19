@@ -1,2 +1,2 @@
-# covid_19
-Get more insight into Covid-19
+# insight to COVID_19
+Some useful insight about the COVID-19 statistics by merging the data from different sources such as CHR (county health rankings) and USA facts.
